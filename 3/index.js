@@ -1,3 +1,3 @@
 export default async function main() {
-    console.log('start App')
+    console.log('start app')
 }
